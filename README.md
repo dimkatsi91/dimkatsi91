@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps
 ------
 
-* 🌍  I'm based in Earth
+* 🌍  I'm based on Earth
 * ✉️  You can contact me at  [https://www.linkedin.com/in/dimostheniskatsimardos/](mailto:https://www.linkedin.com/in/dimostheniskatsimardos/)
 * 🧠  I'm learning BlockChain & French
 
